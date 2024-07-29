@@ -6,7 +6,7 @@
 /* navbar section */
 .nav-container {
     height: 80px;
-    background-color: rgb(95, 124, 129);
+    background-color: rgb(102, 140, 146);
     color: antiquewhite;
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@
 }
 
 .first-btn {
-    padding: 10px 25px;
+    padding: 15px 30px;
     color: white;
     border: none;
     border-radius: 8px;
@@ -189,4 +189,28 @@
 .hot-deal-img{
     width: 250px;
 }
-
+/* instagram-section */
+.instagram-section{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+ 
+}
+.instagram-flower{
+    height: 300px;
+    width: 250px;
+    padding: 20px;
+}
+.instagram-heading{
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.instagram-description{
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+}
